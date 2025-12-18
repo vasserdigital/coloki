@@ -2,6 +2,8 @@
 
 A simple, minimal color palette generator inspired by [Flexoki](https://stephango.com/flexoki). Generate beautiful, perceptually-balanced color scales from a single base color.
 
+![Coloki](coloki.jpg)
+
 ## Features
 
 - **Single-file simplicity** - No build process, just open `index.html` in a browser
